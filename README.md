@@ -4,8 +4,6 @@
 
 NucleoQC is a desktop application for Sanger sequencing analysis and variant detection in biopharmaceutical manufacturing. Designed for the Indian pharmaceutical industry, it provides an affordable, offline alternative to expensive Western software like SnapGene, Geneious, and Benchling.
 
-![NucleoQC Screenshot](docs/screenshot.png)
-
 ## Features
 
 - **AB1 File Parsing**: Read and parse Sanger sequencing files (.ab1 format)
