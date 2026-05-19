@@ -15,6 +15,10 @@ NucleoQC is a desktop application for Sanger sequencing analysis and variant det
 - **Audit Trail**: SQLite-based audit logging with data integrity verification
 - **Offline Operation**: Fully offline operation for air-gapped manufacturing environments
 
+## Demo
+
+![Running locally](screenshots/demo.png)
+
 ## Installation
 
 ### Prerequisites
